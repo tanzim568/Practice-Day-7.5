@@ -1,0 +1,16 @@
+.meal-list{
+    display: flex;
+    gap:30px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.meal-count{
+    box-shadow: 4px 4px 8px gray;
+}
+.err{
+    /* width: 50%; */
+    margin: auto;
+}
